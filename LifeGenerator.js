@@ -37,5 +37,6 @@ function magicEightBall(num) {
     console.log(`Formatted personal life:\n${formatted}`);
   }
   
+  // this will utilize the formatLife function that was just created.
   formatLife(personalLife);
   
